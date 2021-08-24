@@ -1,8 +1,7 @@
-# 👋 Hey, I'm @juliebarwick
+# 👋 Hey, I'm @juliebarwick✨
 
 - 🏡 I'm based in San Francisco.
 - 👀 I’m interested in software engineering, full stack web development, music.
-- 🌱 I’m currently learning how to use Git & GitHub.
 
 
 <!---

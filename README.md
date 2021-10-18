@@ -1,7 +1,7 @@
 # 👋 Hey, I'm @juliebarwick ✨
 
 - 🏡 I'm based in San Francisco.
-- 👀 I’m interested in software engineering, full stack web development, music.
+- 👀 I’m interested in full stack software engineering, language, and music.
 
 
 <!---
